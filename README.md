@@ -1,6 +1,6 @@
 # fix-18-wheels-of-steel-extreme-trucker-2-win-10-and-11
 
-## When the game not opens
+## When the game try to open and closes
 
 Fix discovered when follow the follow steps:
 
