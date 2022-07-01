@@ -1,4 +1,4 @@
-# fix-18-wheels-of-steel-extreme-trucker-2-win-10-and-11
+# Fix 18 Wheels of Steel Extreme Trucker 2 Windows 10 and 11
 
 ## When the game try to open and closes
 
